@@ -2,7 +2,7 @@
 ### General info
 This is easy program for my lecturer, using object programming in java.
 
-###Assumptions:
+## Assumptions:
 * Create class Parcel and ParcelLocker with given methods
 * Checking regular expressions
 * Add constructors
